@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/pavlakis/php-middlware-cli-request.svg)](https://travis-ci.org/pavlakis/php-middlware-cli-request)
+[![Total Downloads](https://img.shields.io/packagist/dt/pavlakis/php-middlware-cli-request.svg)](https://packagist.org/packages/pavlakis/php-middlware-cli-request)
+[![Latest Stable Version](https://img.shields.io/packagist/v/pavlakis/php-middlware-cli-request.svg)](https://packagist.org/packages/pavlakis/php-middlware-cli-request)
+
 # A PHP CLI Request Middleware
 
 ### A copy from [slim-cli](https://github.com/pavlakis/slim-cli) of the same author.
